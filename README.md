@@ -13,10 +13,15 @@ To use as an Customer:
 5.Log out
 
 To use as an Admin:
+
 1.Enter username Admin and Password Admin
+
 2.It will open admin Page
+
 3.Search by tokken given to customer
+
 4.Manage Appointements
+
 
 Note:Passwords are stored in Custom hashes
 
