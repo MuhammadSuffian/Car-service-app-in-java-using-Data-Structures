@@ -1,9 +1,15 @@
 HOW to USE it:
+
 To use as an Customer:
+
 1.Create Account
+
 2.Login using gmail and password used to create account 
+
 3.Book appointement(it will also give to a Appointenet ID/tokken ID)
+
 4.Check history
+
 5.Log out
 
 To use as an Admin:
