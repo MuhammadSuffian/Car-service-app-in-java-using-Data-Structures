@@ -2,17 +2,13 @@
 
 <h2>To use as an Customer:</h2>
 
-<h3>1.Create Account
+1.Create Account<br>
+2.Login using gmail and password used to create account <br>
+3.Book appointement(it will also give to a Appointenet ID/tokken ID)<br>
+4.Check history<br>
+5.Log out<br>
 
-2.Login using gmail and password used to create account 
-
-3.Book appointement(it will also give to a Appointenet ID/tokken ID)
-
-4.Check history
-
-5.Log out</h3>
-
-To use as an Admin:
+<h2>To use as an Admin:</h2>
 
 1.Enter username Admin and Password Admin
 
