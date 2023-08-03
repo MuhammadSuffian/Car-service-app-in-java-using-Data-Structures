@@ -10,16 +10,11 @@
 
 <h2>To use as an Admin:</h2>
 
-1.Enter username Admin and Password Admin
-
-2.It will open admin Page
-
-3.Search by tokken given to customer
-
-4.Manage Appointements
-
-
-Note:Passwords are stored in Custom hashes
+1.Enter username Admin and Password Admin<br><br>
+2.It will open admin Page<br><br>
+3.Search by tokken given to customer<br><br>
+4.Manage Appointements<br><br>
+<h2>Note</h2>:<h3>Passwords are stored in Custom hashes</h3>
 
 The Car Service App is a Java-based application designed to facilitate the booking and management of car service appointments for customers, with additional administrative features. The app employs data structures such as queues, stacks, and file handling to efficiently handle various operations.
 
