@@ -1,8 +1,8 @@
-HOW to USE it:
+<h1>HOW to USE it:</h1>
 
-To use as an Customer:
+<h2>To use as an Customer:</h2>
 
-1.Create Account
+<h3>1.Create Account
 
 2.Login using gmail and password used to create account 
 
@@ -10,7 +10,7 @@ To use as an Customer:
 
 4.Check history
 
-5.Log out
+5.Log out</h3>
 
 To use as an Admin:
 
