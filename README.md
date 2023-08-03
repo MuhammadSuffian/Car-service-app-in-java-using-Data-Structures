@@ -15,14 +15,14 @@
 3.Search by tokken given to customer<br><br>
 4.Manage Appointements<br><br>
 <h3>Note:Passwords are stored in Custom hashes</h3>
-
+<br><br>
 The Car Service App is a Java-based application designed to facilitate the booking and management of car service appointments for customers, with additional administrative features. The app employs data structures such as queues, stacks, and file handling to efficiently handle various operations.
-<br>
+<br><br><br>
 The app supports two types of users: customers and administrators. Customers can create an account, log in, and view their service history. Administrators have additional privileges, including managing appointments and searching by tokens.
-<br>
+<br><br><br>
 To implement the appointment management system, a queue data structure can be used. The queue stores upcoming appointments in a first-in, first-out (FIFO) manner. This ensures that appointments are processed in the order they were made. Each appointment in the queue would contain relevant information such as the customer's name, appointment time, and car details.
-<br>
+<br><br><br>
 For the storage of service history, a stack data structure can be employed. Each customer would have their own stack to store their service history. The stack allows for efficient retrieval of the most recent service records, following the last-in, first-out (LIFO) principle. Each entry in the stack represents a service appointment and contains details like the date, type of service, and any additional notes.
-<br>
+<br><br><br>
 To ensure the permanent storage of customer service history, file handling can be utilized. When a customer logs into their account or completes a service appointment, the relevant information can be written to a file. 
-<br>
+<br><br>
